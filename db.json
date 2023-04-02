@@ -1,93 +1,93 @@
 {
   "posts": [
 
-    { "id": 1, "img":"https://www.ulcdn.net/images/products/313543/original/FNSF52FACA3L_-_main_1.png?1611552737" ,"title": "Farina Half Leather Sectional Sofa", "description": "(Camel Italian Leather)", "price":"152813", "category":"Sofa" },
+    { "id": 1, "img":"https://www.ulcdn.net/images/products/313543/original/FNSF52FACA3L_-_main_1.png?1611552737" ,"title": "Farina Half Leather Sectional Sofa", "description": "(Camel Italian Leather)", "price":152813, "category":"Sofa" },
     {
-      "id":2, "img":" https://www.ulcdn.net/images/products/198907/original/FNSF51MAMA3_-_main_1.jpg?1531221116","title":" Malabar Wooden Sofa", "description":"(Macadamia Brown) ","price":" 50599", "category":"Sofa" 
+      "id":2, "img":" https://www.ulcdn.net/images/products/198907/original/FNSF51MAMA3_-_main_1.jpg?1531221116","title":" Malabar Wooden Sofa", "description":"(Macadamia Brown) ","price":50599, "category":"Sofa" 
     },
     {
-      "id":3, "img":" https://www.ulcdn.net/images/products/173643/original/FNSF54TSCA3_-_main_1.jpg?1521109344","title":"Thiene Sofa ", "description":" (Camel Italian Leather) ","price":"130462 ", "category":"Sofa" 
+      "id":3, "img":" https://www.ulcdn.net/images/products/173643/original/FNSF54TSCA3_-_main_1.jpg?1521109344","title":"Thiene Sofa ", "description":" (Camel Italian Leather) ","price":130462, "category":"Sofa" 
     },
     {
-      "id":4, "img":"https://www.ulcdn.net/images/products/208817/product/FNSF51WCCO3_-_category.jpg?1537420956 ","title":" Winchester Fabric Sofa", "description":"(Cobalt Blue)  ","price":"57970 ", "category":"Sofa" 
+      "id":4, "img":"https://www.ulcdn.net/images/products/208817/product/FNSF51WCCO3_-_category.jpg?1537420956 ","title":" Winchester Fabric Sofa", "description":"(Cobalt Blue)  ","price":57970, "category":"Sofa" 
     },
     {
-      "id":5, "img":" https://www.ulcdn.net/images/products/338398/original/FNSF51WLAS3_-_main_1.png?1620633702","title":"Walton Sectional Sofa  ", "description":"(Asphalt Grey)  ","price":"32487 ", "category":"Sofa" 
+      "id":5, "img":" https://www.ulcdn.net/images/products/338398/original/FNSF51WLAS3_-_main_1.png?1620633702","title":"Walton Sectional Sofa  ", "description":"(Asphalt Grey)  ","price":32487, "category":"Sofa" 
     },
     {
-      "id":6, "img":"https://www.ulcdn.net/images/products/140038/slide/666x363/Kivaha_4_Seater_CF_Table_Set_WLLB_01.jpg?1487065487 ","title":" Morocco Lattice Beige", "description":" Kivaha Square Solid Wood Coffee Table In Walnut","price":"20229 ", "category":"Coffee table"
+      "id":6, "img":"https://www.ulcdn.net/images/products/140038/slide/666x363/Kivaha_4_Seater_CF_Table_Set_WLLB_01.jpg?1487065487 ","title":" Morocco Lattice Beige", "description":" Kivaha Square Solid Wood Coffee Table In Walnut","price":20229, "category":"Coffee table"
     },
     {
-      "id":7, "img":"https://www.ulcdn.net/images/products/161551/product/Claire_Coffee_Table_Mahogany_Compact_Revised_74.jpg?1560749238 ","title":"Claire Square Solid Wood Coffee Table In Mahogany Finish ", "description":"A contemporary looking coffee table which makes a chic centre piece in your living room ","price":" 13199.00", "category":"Coffee table"
+      "id":7, "img":"https://www.ulcdn.net/images/products/161551/product/Claire_Coffee_Table_Mahogany_Compact_Revised_74.jpg?1560749238 ","title":"Claire Square Solid Wood Coffee Table In Mahogany Finish ", "description":"A contemporary looking coffee table which makes a chic centre piece in your living room ","price":13199, "category":"Coffee table"
     },
     {
-      "id":8, "img":" https://www.ulcdn.net/images/products/300526/slide/666x363/Kivaha_2_Seater_Rust_1.jpg?1600250433","title":" ", "description":" A table for two? Right this way. Two nested stools make room for you, without eating into space. ","price":"22398 ", "category":"Coffee table"
+      "id":8, "img":" https://www.ulcdn.net/images/products/300526/slide/666x363/Kivaha_2_Seater_Rust_1.jpg?1600250433","title":" ", "description":" A table for two? Right this way. Two nested stools make room for you, without eating into space. ","price":22398 , "category":"Coffee table"
     },
     {
-      "id":9, "img":" ","title":" Fujiwara Rectangular Solid Wood Coffee Table In Amber Walnut Finish", "description":" Come home to Zen. The Fujiwara coffee table is inspired by the Zen ideal of the middle way -","price":" 23399", "category":"Coffee table"
+      "id":9, "img":" ","title":" Fujiwara Rectangular Solid Wood Coffee Table In Amber Walnut Finish", "description":" Come home to Zen. The Fujiwara coffee table is inspired by the Zen ideal of the middle way -","price":23399, "category":"Coffee table"
     },
     {
-      "id":10, "img":"https://www.ulcdn.net/images/products/368203/slide/666x363/Miles_Coffee_Table_1.jpg?1628260822", "title":"Leena Rectangular Metal Coffee Table In Powder Coating Finish", "description":" " ,"price":"38714", "category":"Coffee table"
+      "id":10, "img":"https://www.ulcdn.net/images/products/368203/slide/666x363/Miles_Coffee_Table_1.jpg?1628260822", "title":"Leena Rectangular Metal Coffee Table In Powder Coating Finish", "description":" " ,"price":38714, "category":"Coffee table"
     },
     {
-      "id":11, "img":"https://www.ulcdn.net/images/products/203313/slide/666x363/Diego_Floor_Lamp_1.jpg?1535103262 ","title":"Diego Floor Lamp ", "description":"Tall, dark, and handsome. Meet the Diego floor lamp. ","price":"9112 ", "category":"lighting"
+      "id":11, "img":"https://www.ulcdn.net/images/products/203313/slide/666x363/Diego_Floor_Lamp_1.jpg?1535103262 ","title":"Diego Floor Lamp ", "description":"Tall, dark, and handsome. Meet the Diego floor lamp. ","price":9112, "category":"lighting"
     },
     {
-      "id":12, "img":"https://www.ulcdn.net/images/products/595419/slide/666x363/VALTFL61BE56930_1.jpg?1656331916 ","title":" Marta Beige Cotton Shade Floor Lamp", "description":"Beige & Brown Engineered Wood Base ","price":"3999 ","category":"lighting"
+      "id":12, "img":"https://www.ulcdn.net/images/products/595419/slide/666x363/VALTFL61BE56930_1.jpg?1656331916 ","title":" Marta Beige Cotton Shade Floor Lamp", "description":"Beige & Brown Engineered Wood Base ","price":3999,"category":"lighting"
     },
     {
-      "id":13, "img":" https://www.ulcdn.net/images/products/476808/slide/666x363/Crane_Study_Lamp__White_1.JPG?1646890085","title":"Crane Study Lamp ", "description":" Mango wood base detailing in a teak wood finish","price":" 4674","category":"lighting"
+      "id":13, "img":" https://www.ulcdn.net/images/products/476808/slide/666x363/Crane_Study_Lamp__White_1.JPG?1646890085","title":"Crane Study Lamp ", "description":" Mango wood base detailing in a teak wood finish","price": 4674,"category":"lighting"
     },
     {
-      "id":14, "img":"https://www.ulcdn.net/images/products/303249/slide/666x363/Judy_Study_Lamp_1.jpg?1604314855 ","title":" Judy Study Lamp", "description":"Base made of Steel and Glass in an Antique Brass finish. ","price":"9999 ","category":"lighting"
+      "id":14, "img":"https://www.ulcdn.net/images/products/303249/slide/666x363/Judy_Study_Lamp_1.jpg?1604314855 ","title":" Judy Study Lamp", "description":"Base made of Steel and Glass in an Antique Brass finish. ","price":9999,"category":"lighting"
     },
     {
-      "id":15, "img":"https://www.ulcdn.net/images/products/340445/slide/666x363/Oberon_Pendant_Light__Dark_Wood58_1.jpg?1623159568 ","title":"Oberon Pendant Light ", "description":"We currently do not offer installation for wall and ceiling lamps ","price":" 9599","category":"lighting"
+      "id":15, "img":"https://www.ulcdn.net/images/products/340445/slide/666x363/Oberon_Pendant_Light__Dark_Wood58_1.jpg?1623159568 ","title":"Oberon Pendant Light ", "description":"We currently do not offer installation for wall and ceiling lamps ","price":9599,"category":"lighting"
     },
     {
-      "id":16, "img":" https://www.ulcdn.net/images/products/480991/product/Zoey_Non-_Storage_Bed_Queen_Classic_Walnut_LP.jpg?1647675968","title":"Zoey Engineered Wood Queen Size Bed ", "description":"Easy assembly and dismantling ","price":"17999 ","category":"beds"
+      "id":16, "img":" https://www.ulcdn.net/images/products/480991/product/Zoey_Non-_Storage_Bed_Queen_Classic_Walnut_LP.jpg?1647675968","title":"Zoey Engineered Wood Queen Size Bed ", "description":"Easy assembly and dismantling ","price":17999,"category":"beds"
     },
     {
-      "id":17, "img":" https://www.ulcdn.net/images/products/231989/slide/666x363/Boston_Box_Bed_1.jpg?1545626045","title":" Boston Solid Wood Queen Size", "description":" With a distinctive natural wood grain finish, this bed is designed to occupy the spotlight.","price":" 74998","category":"beds"
+      "id":17, "img":" https://www.ulcdn.net/images/products/231989/slide/666x363/Boston_Box_Bed_1.jpg?1545626045","title":" Boston Solid Wood Queen Size", "description":" With a distinctive natural wood grain finish, this bed is designed to occupy the spotlight.","price":74998,"category":"beds"
     },
     {
-      "id":18, "img":"https://www.ulcdn.net/images/products/428223/slide/666x363/Faroe_upholstered_stor_bed_grey_queen_1.jpg?1637242399 ","title":" Faroe Engineered Wood ", "description":" Queen Size Drawer Storage Upholstered Bed In Grey Finish","price":" 46799","category":"beds"
+      "id":18, "img":"https://www.ulcdn.net/images/products/428223/slide/666x363/Faroe_upholstered_stor_bed_grey_queen_1.jpg?1637242399 ","title":" Faroe Engineered Wood ", "description":" Queen Size Drawer Storage Upholstered Bed In Grey Finish","price":46799,"category":"beds"
     },
     {
-      "id":19, "img":"https://www.ulcdn.net/images/products/222567/slide/666x363/Florence_Bed_1.jpg?1543832553 ","title":"Florence Solid Wood  ", "description":" King Size Drawer Storage Bed In Teak Finish","price":" 96497","category":"beds"
+      "id":19, "img":"https://www.ulcdn.net/images/products/222567/slide/666x363/Florence_Bed_1.jpg?1543832553 ","title":"Florence Solid Wood  ", "description":" King Size Drawer Storage Bed In Teak Finish","price":96497,"category":"beds"
     },
     {
-      "id":20, "img":"https://www.ulcdn.net/images/products/702150/slide/666x363/TURNER-A-QB_2.jpg?1669017651 ","title":"Turner Solid Wood  ", "description":"Find your Eureka! moment with the heavenly Turner beds.","price":" 58800","category":"beds"
+      "id":20, "img":"https://www.ulcdn.net/images/products/702150/slide/666x363/TURNER-A-QB_2.jpg?1669017651 ","title":"Turner Solid Wood  ", "description":"Find your Eureka! moment with the heavenly Turner beds.","price":58800,"category":"beds"
     },
     {
-      "id":21, "img":" https://www.ulcdn.net/images/products/481100/slide/666x363/Zoey_3_Door_Wardrobe_00.jpg?1647680772","title":"Zoey Engineered Wood ", "description":"3 Door Wardrobe In Classic Walnut Finish ","price":"24999 ", "category":"Wardrobes"
+      "id":21, "img":" https://www.ulcdn.net/images/products/481100/slide/666x363/Zoey_3_Door_Wardrobe_00.jpg?1647680772","title":"Zoey Engineered Wood ", "description":"3 Door Wardrobe In Classic Walnut Finish ","price":24999 , "category":"Wardrobes"
     },
     {
-      "id":22, "img":" https://www.ulcdn.net/images/products/314046/slide/666x363/Baltoro_Wardrobe_White_1.jpg?1612598408","title":"Baltoro Engineered Wood ", "description":" 2 Door Wardrobe In White Finish","price":"66599 ", "category":"Wardrobes"
+      "id":22, "img":" https://www.ulcdn.net/images/products/314046/slide/666x363/Baltoro_Wardrobe_White_1.jpg?1612598408","title":"Baltoro Engineered Wood ", "description":" 2 Door Wardrobe In White Finish","price":66599, "category":"Wardrobes"
     },
     {
-      "id":23, "img":" Ozone Engineered Wood ","title":" ", "description":" 2 Door Wardrobe With Mirror In Wenge Finish ","price":"18681 ", "category":"Wardrobes"
+      "id":23, "img":" Ozone Engineered Wood ","title":" ", "description":" 2 Door Wardrobe With Mirror In Wenge Finish ","price":18681 , "category":"Wardrobes"
     },
     {
-      "id":24, "img":" https://www.ulcdn.net/images/products/332777/slide/666x363/Magellan_Wardrobe_Finish_Mahogany_1.jpg?1617182244","title":"Magellan Solid Wood  ", "description":"2 Door Wardrobe In Mahogany Finish ","price":" 74899", "category":"Wardrobes"
+      "id":24, "img":" https://www.ulcdn.net/images/products/332777/slide/666x363/Magellan_Wardrobe_Finish_Mahogany_1.jpg?1617182244","title":"Magellan Solid Wood  ", "description":"2 Door Wardrobe In Mahogany Finish ","price":74899, "category":"Wardrobes"
     },
     {
-      "id":25, "img":" https://www.ulcdn.net/images/products/735650/slide/666x363/Sisca_2_Door_Wardrobe_Without_Mirror-Walnut_n_White_1.jpg?1676634524","title":"Regal Engineered Wood ", "description":"Regal Engineered Wood Door Wardrobe In White & Walnut Finish ","price":" 20299", "category":"Wardrobes"
+      "id":25, "img":" https://www.ulcdn.net/images/products/735650/slide/666x363/Sisca_2_Door_Wardrobe_Without_Mirror-Walnut_n_White_1.jpg?1676634524","title":"Regal Engineered Wood ", "description":"Regal Engineered Wood Door Wardrobe In White & Walnut Finish ","price":20299, "category":"Wardrobes"
     },
     {
-      "id":26, "img":"https://www.ulcdn.net/images/products/147051/product/Diner_Set_With_Bench_GO_LP.jpg?1493052916 ","title":" Diner Solid Wood ", "description":"  6 Seater Dining Table With Set Of Chairs In Golden Oak Finish","price":" 60696"
+      "id":26, "img":"https://www.ulcdn.net/images/products/147051/product/Diner_Set_With_Bench_GO_LP.jpg?1493052916 ","title":" Diner Solid Wood ", "description":"  6 Seater Dining Table With Set Of Chairs In Golden Oak Finish","price":60696,"category":"Dinning"
     },
     {
-      "id":27, "img":"https://www.ulcdn.net/images/products/290719/slide/666x363/Caribu_Doris_White_6_Seater_1.jpg?1574739332 ","title":"Caribu 4 To 6 Extendable ", "description":"Caribu 4 To 6 Extendable - Doris (Leatherette) 6 Seater Dining Table Set ","price":" 126793"
+      "id":27, "img":"https://www.ulcdn.net/images/products/290719/slide/666x363/Caribu_Doris_White_6_Seater_1.jpg?1574739332 ","title":"Caribu 4 To 6 Extendable ", "description":"Caribu 4 To 6 Extendable - Doris (Leatherette) 6 Seater Dining Table Set ","price":126793,"category":"Dinning"
     },
     {
-      "id":28, "img":"https://www.ulcdn.net/images/products/147060/slide/666x363/Diner_Set_With_Bench_GO_1.jpg?1493052932 ","title":"Diner Solid Wood ", "description":" Diner Solid Wood 6 Seater Dining Table With Set Of Chairs In Golden Oak Finish","price":"60696 "
+      "id":28, "img":"https://www.ulcdn.net/images/products/147060/slide/666x363/Diner_Set_With_Bench_GO_1.jpg?1493052932 ","title":"Diner Solid Wood ", "description":" Diner Solid Wood 6 Seater Dining Table With Set Of Chairs In Golden Oak Finish","price":60696 ,"category":"Dinning"
     },
     {
-      "id":29, "img":"https://www.ulcdn.net/images/products/329105/slide/666x363/Oribi_Upholstered_Dining_Bench_Mahogony_Wheat_Brown_1.jpg?1614755983 ","title":"Oribi Solid Wood ", "description":"  Dining Bench In Mahogany Finish","price":"17098 "
+      "id":29, "img":"https://www.ulcdn.net/images/products/329105/slide/666x363/Oribi_Upholstered_Dining_Bench_Mahogony_Wheat_Brown_1.jpg?1614755983 ","title":"Oribi Solid Wood ", "description":"  Dining Bench In Mahogany Finish","price":17098,"category":"Dinning"
     },
     {
-      "id":30, "img":"https://www.ulcdn.net/images/products/733803/slide/666x363/Oribi_Upholstered_Dining_Bench_Teak_Avocado_Green_1.jpg?1676552262 ","title":"Oribi Solid Wood Dining Bench In Teak Finish ", "description":"A sturdy bench made of premium Sheesham wood ","price":"17098 "
+      "id":30, "img":"https://www.ulcdn.net/images/products/733803/slide/666x363/Oribi_Upholstered_Dining_Bench_Teak_Avocado_Green_1.jpg?1676552262 ","title":"Oribi Solid Wood Dining Bench In Teak Finish ", "description":"A sturdy bench made of premium Sheesham wood ","price":17098,"category":"Dinning"
     }
     
   ]
